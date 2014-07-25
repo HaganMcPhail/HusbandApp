@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3CABE40E-0084-43E0-B8AA-BCEA07D64166</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Husband App</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>715F8BBA-59AD-4565-BCF0-E05D2E493138</key>
+		<string>https://github.com/HaganMcPhail/HusbandApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Husband App.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>715F8BBA-59AD-4565-BCF0-E05D2E493138</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HaganMcPhail/HusbandApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>715F8BBA-59AD-4565-BCF0-E05D2E493138</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>715F8BBA-59AD-4565-BCF0-E05D2E493138</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Husband App</string>
+		</dict>
+	</array>
+</dict>
+</plist>
